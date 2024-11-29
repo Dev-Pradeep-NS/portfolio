@@ -1,0 +1,47 @@
+baseURL = "/"
+languageCode = "en-us"
+relativeURLs = true
+uglyURLs = false
+theme = "terminal"
+paginate = 5
+
+[params]
+  contentTypeName = "portfolio"
+  showMenuItems = 2
+  showLanguageSelector = false
+  fullWidthTheme = false
+  centerTheme = true
+  autoCover = true
+  showLastUpdated = false
+  readingTime = false
+  Toc = false
+
+[params.twitter]
+  creator = ""
+  site = ""
+
+[languages]
+  [languages.en]
+    languageName = "English"
+    title = "Pradeep N S Portfolio"
+
+    [languages.en.params]
+      subtitle = "Showcasing Projects and Achievements"
+      owner = "Pradeep N S"
+      keywords = "portfolio, projects, technology, software development, coding showcase"
+      menuMore = "Show more"
+      readMore = "View more"
+      readOtherPosts = "View other projects"
+      newerPosts = "Newer projects"
+      olderPosts = "Older projects"
+      missingContentMessage = "Page not found..."
+      missingBackButtonLabel = "Back to home page"
+      minuteReadingTime = "min view"
+      words = "words"
+
+      [languages.en.params.logo]
+        logoText = "Pradeep N S Portfolio"
+        logoHomeLink = "/portfolio"
+
+      # Copyright should only be defined once here
+      copyright = "© 2024 SpecWise | Powered by <a href='https://github.com/Dev-Pradeep-NS' target='_blank'>Pradeep N S</a>"
