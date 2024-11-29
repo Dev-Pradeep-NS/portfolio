@@ -1,6 +1,7 @@
 # Hi, I’m **Pradeep N S** 👨‍💻
 
 A passionate and enthusiastic **Full Stack Developer** with expertise in **React**, **React Native**, **Golang (Fiber)**, **Sequelize**, and **Salesforce**. I specialize in developing **scalable web and mobile applications** that not only perform well but also provide seamless user experiences. With a problem-solving mindset, I love exploring new technologies and building digital solutions that make a difference.
+
 I am driven by the challenge of turning complex problems into simple, intuitive solutions, and I enjoy collaborating with teams to create impactful projects.
 
 ---
